@@ -8,7 +8,7 @@
  <hr>
  
  <p>
- Currently I'm improving my skils by doing projects in data analysis, automation and oop projects.</br>
+ Currently I'm improving my skills by doing projects in data analysis, automation and oop projects.</br>
  <b>I’m working with ...</b></br></br>
  <img src='https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD700'	>
  <img src='https://img.shields.io/badge/-Java-007396?logo=java'>
