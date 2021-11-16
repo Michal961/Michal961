@@ -9,7 +9,7 @@
  
  <p>
  Currently I'm improving my skils by doing projects in data analysis, automation and oop projects.</br>
- I’m working with ...</br></br>
+ <b>I’m working with ...</b></br></br>
  <img src='https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD700'	>
  <img src='https://img.shields.io/badge/-Java-007396?logo=java'>
  <img src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white'	>
@@ -21,7 +21,7 @@
  </p>
  <hr>
  <p>
- I also worked with...</br></br>
+ <b>I also worked with...</b></br></br>
 
  <img src='https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white'	>
  <img src='https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white'	>
@@ -34,7 +34,12 @@
 
  <p/>
  <hr>
-
+ <p>
+ <h3>Get in tuch </h3>
+<ul>
+ <li> <b>Gmail</b> - mihalsh1@gmail.com</li>
+ </ul>
+ </p>
 
 <!---
 Michal961/Michal961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
