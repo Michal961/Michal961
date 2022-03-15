@@ -2,17 +2,18 @@
 <h1> Hi there! :raised_hand_with_fingers_splayed: My name is Michal</h1>
 <p>
  I'm a master’s student in Information Science and a bachelor of Computer Science. :mortar_board:	</br>
- I love to challenge myself and passionate about new technologies :desktop_computer:	:chart_with_upwards_trend:	
+ I love to challenge myself and passionate about programming and new technologies :desktop_computer:	:chart_with_upwards_trend:	
  </p> 
  </div>
  <hr>
  
  <p>
- Currently I'm improving my Java and Python skills - focusing on working with data.</br>
+ Currently I'm improving my Java and Python skills</br>
  <b>I’m working with ...</b></br></br>
- <img src='https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD700'	>
  <img src='https://img.shields.io/badge/-Java-007396?logo=java'>
+ <img src='https://img.shields.io/badge/-Spring Boot-007396?logo=springboot'>
  <img src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white'	>
+ <img src='https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD700'	>
  </br>
  <img src='https://img.shields.io/badge/-VS%20CODE-007ACC?logo=visualstudiocode'>
  <img src='https://img.shields.io/badge/-IntelliJ%20-black?logo=intellijidea'>
